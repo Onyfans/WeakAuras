@@ -1,0 +1,2 @@
+# WeakAuras
+Collection of WeakAuras
