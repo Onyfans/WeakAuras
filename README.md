@@ -11,8 +11,6 @@ Specs are difficult to track in this version of WeakAuras, if you want to use mu
 # To-Do
 
 Update the following to work with new WA version.
-- Arms
-- Fury
 - Demo
 - Destro
 
