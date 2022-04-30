@@ -14,5 +14,5 @@ Update the following to work with new WA version.
 - Demo
 - Destro
 
-Remove the section for multiple specs, as new WA version has (limited) spec tracking.
+Remove the section for multiple specs, as new WA version has (limited) spec tracking. (after adding demo/destroy specs)
 
